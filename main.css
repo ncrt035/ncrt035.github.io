@@ -1,0 +1,10 @@
+/* main.css */
+
+body{
+  font-family: "EB Garamond", serif;
+  font-size: large;
+}
+
+span.title{
+  font-style: italic;
+}
